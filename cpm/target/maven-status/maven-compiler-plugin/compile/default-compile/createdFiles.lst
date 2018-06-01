@@ -1,0 +1,10 @@
+com/algaworks/gp/config/WebSecurityConfig.class
+com/algaworks/gp/config/SecurityConfig.class
+com/algaworks/gp/utils/JdbcUtils.class
+com/algaworks/gp/security/GpUserDetailsService.class
+com/algaworks/gp/config/InMemorySecurityConfig.class
+com/algaworks/gp/security/GpUserDetails.class
+com/algaworks/gp/controller/GpController.class
+com/algaworks/gp/config/UdsSecurityConfig.class
+com/algaworks/gp/config/JdbcSecurityConfig.class
+com/algaworks/gp/Aplicacao.class

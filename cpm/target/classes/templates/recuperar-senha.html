@@ -1,0 +1,76 @@
+<html xmlns:th="http://www.thymeleaf.org"
+	xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout">
+<head>
+<title>Spring Security</title>
+
+<!-- App Icons -->
+<link rel="shortcut icon" th:href="@{/assets/images/favicon.ico}" />
+
+<!-- App css -->
+<link th:href="@{/assets/css/bootstrap.min.css}" rel="stylesheet" />
+<link th:href="@{/assets/css/icons.css}" rel="stylesheet" />
+<link th:href="@{/assets/css/style.css}" rel="stylesheet" />
+</head>
+
+<body>
+
+	<!-- Begin page -->
+	<div class="accountbg"></div>
+	<div class="wrapper-page">
+
+
+            <div class="card">
+                <div class="card-body">
+
+                    <h3 class="text-center mt-0 m-b-15">
+                        <a href="index.html" class="logo logo-admin"><img src="assets/images/logo-dark.png" height="30" alt="logo"></a>
+                    </h3>
+
+                    <h4 class="text-muted text-center font-18"><b>Recuperar Senha</b></h4>
+
+                    <div class="p-3">
+                        <form class="form-horizontal m-t-20" action="/login">
+
+                            <div class="alert alert-info alert-dismissible">
+                                <button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
+                                Informe seu <b>E-mail</b> para recuperar a senha!
+                            </div>
+
+                            <div class="form-group">
+                                <div class="col-xs-12">
+                                    <input class="form-control" type="email" required="" placeholder="E-mail">
+                                </div>
+                            </div>
+
+                            <div class="form-group text-center row m-t-20">
+                                <div class="col-12">
+                                    <button class="btn btn-info btn-block waves-effect waves-light" type="submit">Enviar E-mail</button>
+                                </div>
+                            </div>
+
+                        </form>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+
+
+    <!-- jQuery  -->
+        <script src="assets/js/jquery.min.js"></script>
+        <script src="assets/js/popper.min.js"></script>
+        <script src="assets/js/bootstrap.min.js"></script>
+        <script src="assets/js/modernizr.min.js"></script>
+        <script src="assets/js/waves.js"></script>
+        <script src="assets/js/jquery.slimscroll.js"></script>
+        <script src="assets/js/jquery.nicescroll.js"></script>
+        <script src="assets/js/jquery.scrollTo.min.js"></script>
+
+        <!-- App js -->
+        <script src="assets/js/app.js"></script>
+
+    </body>
+
+<!-- Mirrored from themesdesign.in/upcube/layouts/horizontal/pages-recoverpw.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 20 Apr 2018 18:49:07 GMT -->
+</html>

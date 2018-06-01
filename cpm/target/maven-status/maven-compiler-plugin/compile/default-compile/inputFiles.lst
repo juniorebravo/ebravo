@@ -1,0 +1,10 @@
+/home/jpl/git/palestra-spring-security-cti/src/main/java/com/algaworks/gp/utils/JdbcUtils.java
+/home/jpl/git/palestra-spring-security-cti/src/main/java/com/algaworks/gp/controller/GpController.java
+/home/jpl/git/palestra-spring-security-cti/src/main/java/com/algaworks/gp/security/GpUserDetailsService.java
+/home/jpl/git/palestra-spring-security-cti/src/main/java/com/algaworks/gp/config/UdsSecurityConfig.java
+/home/jpl/git/palestra-spring-security-cti/src/main/java/com/algaworks/gp/config/JdbcSecurityConfig.java
+/home/jpl/git/palestra-spring-security-cti/src/main/java/com/algaworks/gp/Aplicacao.java
+/home/jpl/git/palestra-spring-security-cti/src/main/java/com/algaworks/gp/config/WebSecurityConfig.java
+/home/jpl/git/palestra-spring-security-cti/src/main/java/com/algaworks/gp/security/GpUserDetails.java
+/home/jpl/git/palestra-spring-security-cti/src/main/java/com/algaworks/gp/config/SecurityConfig.java
+/home/jpl/git/palestra-spring-security-cti/src/main/java/com/algaworks/gp/config/InMemorySecurityConfig.java

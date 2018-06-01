@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Gerenciamento de Projetos
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: jpl
+Implementation-Vendor-Id: com.algaworks
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://projects.spring.io/spring-boot/palestra-spr
+ ing-security-cti/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
